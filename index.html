@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./assets/style.css" rel="stylesheet">
+    <title>JS Quiz</title>
+</head>
+
+<body>
+    <div>
+        <h1>Fun Time Quiz</h1>
+    </div>
+    <div class="timer">
+        <h1 class="time"></h1>
+    </div>
+    <div class="start">
+        <button id="begin-quiz" class="begin-btn btn">Begin Quiz</button>
+    </div>
+    <div class="container">
+        <div id="questions-box" class="hide">
+            <div id="question-display" class="next-question"></div>
+            <div id="ans-btns" class="btn-grid"></div>
+        </div>
+        <div id="result" class="container-result" class="hide"></div>
+    </div>
+    <div class="done hide">
+        <div class="done-msg">You have finished the Quiz!</div>
+        <div id="final-score" class="final-scr">Your final score is:</div>
+        <form class="highscr-initials">
+            <label for="initials">Initials:</label>
+            <input type="text" id="initials" name="initials" value="">
+            <button id="submit" class="hide">Submit</button>
+        </form>
+    </div>
+    <script src="./assets/script.js"></script>
+</body>
+
+</html>
