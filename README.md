@@ -9,6 +9,10 @@ Working on this homework was REALLY HARD. I tried to figure this out on my own, 
 ![Screenshot Question](https://github.com/TaiNguyen112433/Code-Quiz/blob/main/assets/image/h1%20(3).png)
 ![Screenshot End](https://github.com/TaiNguyen112433/Code-Quiz/blob/main/assets/image/h1%20(4).png)
 
+## Links
+-Github: https://github.com/TaiNguyen112433/Code-Quiz
+-Deployed Website: https://tainguyen112433.github.io/Code-Quiz/ 
+
 ## Credit
 Worked on this homework with Baylor Hinshaw
 https://github.com/baylorhinshaw
